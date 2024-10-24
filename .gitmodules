@@ -1,3 +1,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/SonicRay241/project-omega-web.git
+[submodule "ai-server"]
+	path = ai-server
+	url = https://github.com/SonicRay241/project-omega-ai.git
