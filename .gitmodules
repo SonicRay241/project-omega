@@ -4,3 +4,6 @@
 [submodule "ai-server"]
 	path = ai-server
 	url = https://github.com/SonicRay241/project-omega-ai.git
+[submodule "consumer-server"]
+	path = consumer-server
+	url = https://github.com/SonicRay241/omega-consumer.git
