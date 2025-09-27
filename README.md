@@ -33,4 +33,4 @@ The pipeline includes:
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/SonicRay241/project-omega/blob/main/LICENSE).
