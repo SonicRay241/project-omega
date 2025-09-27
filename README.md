@@ -29,9 +29,7 @@ The pipeline includes:
 
 ## 🔄 Data Flow Diagram
 
-![Data Flow Diagram Placeholder](https://github.com/SonicRay241/project-omega/blob/diagram.png)
-
-*(Replace with your own architecture diagram image)*
+![Data Flow Diagram](https://github.com/SonicRay241/project-omega/blob/main/diagram.png)
 
 ## 📄 License
 
